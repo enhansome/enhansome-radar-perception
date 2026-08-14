@@ -109,7 +109,7 @@
             "last_commit": "2024-06-17T09:06:58Z",
             "owner": "PJLab-ADG",
             "repo": "SensorsCalibration",
-            "stars": 3190
+            "stars": 3191
           }
         },
         {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:52:24.122Z",
+    "last_updated": "2026-08-14T11:49:06.413Z",
     "original_repository": "ZHOUYI1023/awesome-radar-perception",
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",
     "enhanced_repository": "enhansome/enhansome-radar-perception",
