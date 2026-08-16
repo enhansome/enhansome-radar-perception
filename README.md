@@ -99,7 +99,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | -------- | ---------------------------- | --------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | CRUW     | TI AWR1843 Ultra Short Range | RA        | Pointlevel Object          | [Website](https://www.cruwdataset.org/home)                                                                                                  |
 | CARRADA  | TI AWR1843 Short Range       | RA,RD,RAD | Pointwise, 2D bbox, Mask   | [Website](https://arthurouaknine.github.io/codeanddata/carrada)                                                                              |
-| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 235 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
+| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 236 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
 | RaDICaL  | TI IWR1443                   | ADC       | 2D bbox                    | [Website](https://publish.illinois.edu/radicaldata/)                                                                                         |
 | GhentVRU | TI AWR1243 Short Range       | RAD       | Segmentation Mask for VRUs | [Paper](https://ieeexplore.ieee.org/document/9294399)                                                                                        |
 | RAMP-CNN | TI AWR 1843                  | ADC       | 2D bbox                    | [Website](https://github.com/Xiangyu-Gao/Raw_ADC_radar_dataset_for_automotive_object_detection) ⭐ 136 \| 🐛 10 \| 🌐 Python \| 📅 2025-05-26 |
@@ -786,7 +786,7 @@ Sensor Fusion:
 * 2022-A Novel Radar Point Cloud Generation Method for Robot Environment Perception [Paper](https://ieeexplore.ieee.org/abstract/document/9823311)
 * 2022-Look, Radiate, and Learn: Self-supervised Localisation via Radio-Visual Correspondence **`Arxiv`**; **`Simulation`**; **`SpatialContrastive`**; [Paper](https://arxiv.org/abs/2206.06424)
 * 2021-R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes **`3DIMPVT`**; **`nuScenes`**; **`SSL`**; [Paper](https://arxiv.org/abs/2108.04814)
-* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 287 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
+* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 288 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
 * 2020- RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar **`IV`**; **`Oxford`**; **`PoseChain`**; [Paper](https://ieeexplore.ieee.org/document/9304674)
 * 2020-Warping of Radar Data into Camera Image for Cross-Modal Supervision in Automotive Applications **`TVT`**; **`Velocity`**; [Paper](https://arxiv.org/abs/2012.12809)
 * 2020-Weakly Supervised Deep Learning Method for Vulnerable Road User Detection in FMCW Radar  **`ITSC`**; **`Tracking`**; [Paper](https://ieeexplore.ieee.org/document/9294399)
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
