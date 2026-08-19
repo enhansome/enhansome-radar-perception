@@ -1,136 +1,50 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Towards Deep Radar Perception for Autonomous Driving: Datasets, Methods, and Challenges"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "The 41-page slides associated with this paper: Link ; Link for China Mainland"
-    },
-    {
-      "description": "In my review paper, there is a table with more detials.",
-      "items": [],
-      "title": "Radar Datasets"
-    },
-    {
-      "description": "Comments: nuScenes, DENSE and Pixset are for sensor fusion, but not particularly address the role of radar. Radar scenes provides point-wise annotations for radar point cloud, but has no other modalities. Pointillism uses 2 radars with overlapped view. Zendar seems no longer available for downloading. AiMotive focuses on long-range 360 degree multi-sensor fusion.",
-      "items": [],
-      "title": "Conventional Radar Datasets for Autonomous Driving"
-    },
-    {
-      "description": "Comments: CARRADA is captured in clean scenarios, CRUW uses RA maps, RADDet provides annotations for RAD tensor, RADICaL provides raw ADC data and signal processing toolboxes, GhentVRU can be accssed by contacting with authors, ODA is for drones and provides event camera data.",
-      "items": [],
-      "title": "Pre-CFAR Datasets for Detection"
-    },
-    {
-      "description": "Comments: Astyx is small, VoD focuses on VRU classification, RADIal's annotation is coarse but provides raw data, TJ4D features for its long range detection, K-Radar provides RAD tensor and 3D annotations. ZF 4DRadar Dataset is not yet public available.",
-      "items": [],
-      "title": "4D Radar Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Specific Tasks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Odometry and Localization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gesture"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Human Activity and Reconstruction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vital Sign"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Radar Toolbox"
-    },
-    {
-      "description": "RadarSimPy: Code; Virtual Radar: Code; MaxRay: Paper; RadaRays: Paper, Code, Video",
-      "items": [],
-      "title": "Simulation"
-    },
-    {
-      "description": "RaDICaL's Toolbox: SDK; PyRapid: SDK;OpenRadar : SDK;Pymmw: SDK;Open radar initiative: SDK;RADIal's Emptyband-DDM Script: Code",
-      "items": [],
-      "title": "TI Signal Processing SDK:"
-    },
-    {
-      "description": "NXP Premium Radar SDK: Link;TI mmWAVE Studio: Link;TI Toolbox: Link;Matlab Radar Toolbox: Link",
-      "items": [],
-      "title": "Official SDK:"
-    },
-    {
-      "description": "TI Radar and Camera in Python:Code; Ainstein Radar ROS Node: ROS Node;Continental ARS 408 ROS Node: ROS Node;TI mmWave ROS Driver: Guide;RaDICaL's TI ROS Node: ROS Node;UoA's TI ROS Package: ROS Node",
-      "items": [],
-      "title": "Data Capturing:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommended Books and Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Radar Signature"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving Paper",
+              "description": "; Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436532699,
+                "language": "C++",
+                "last_commit": "2024-06-17T09:06:58Z",
+                "owner": "PJLab-ADG",
+                "repo": "SensorsCalibration",
+                "stars": 3194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-An Joint Extrinsic Calibration Tool for Radar, Camera and Lidar ; Paper",
+              "description": "; Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172735244,
+                "language": "C++",
+                "last_commit": "2023-07-18T10:27:56Z",
+                "owner": "tudelft-iv",
+                "repo": "multi_sensor_calibration",
+                "stars": 556
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Radar-Lidar-Camera"
+        }
+      ],
       "title": "Calibration"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving Paper",
-          "description": "; Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-06-17T09:06:58Z",
-            "owner": "PJLab-ADG",
-            "repo": "SensorsCalibration",
-            "stars": 3192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2021-An Joint Extrinsic Calibration Tool for Radar, Camera and Lidar ; Paper",
-          "description": "; Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-07-18T10:27:56Z",
-            "owner": "tudelft-iv",
-            "repo": "multi_sensor_calibration",
-            "stars": 556
-          }
-        }
-      ],
-      "title": "Radar-Lidar-Camera"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358305446,
             "language": "Python",
             "last_commit": "2021-12-02T14:57:32Z",
             "owner": "valeoai",
@@ -153,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355275174,
             "language": "Python",
             "last_commit": "2025-09-01T06:07:55Z",
             "owner": "TUMFTM",
@@ -167,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320796887,
             "language": "Python",
             "last_commit": "2021-03-03T07:49:51Z",
             "owner": "itaiorr",
@@ -178,12 +95,7 @@
       "title": "Object Detection"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Pre-CFAR Data"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -192,6 +104,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298261870,
             "language": "Python",
             "last_commit": "2021-01-31T00:36:24Z",
             "owner": "brade31919",
@@ -206,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345462296,
             "language": "Python",
             "last_commit": "2021-07-15T23:51:04Z",
             "owner": "longyunf",
@@ -220,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404764145,
             "language": "Jupyter Notebook",
             "last_commit": "2021-10-05T01:04:38Z",
             "owner": "MI-Hussain",
@@ -234,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304916793,
             "language": "Python",
             "last_commit": "2020-10-19T14:22:11Z",
             "owner": "lochenchou",
@@ -245,7 +161,7 @@
       "title": "Depth Estimation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -254,6 +170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462320792,
             "language": "Python",
             "last_commit": "2023-03-18T20:58:59Z",
             "owner": "Toytiny",
@@ -268,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346168457,
             "language": "HTML",
             "last_commit": "2021-03-28T19:02:21Z",
             "owner": "RansML",
@@ -279,77 +197,51 @@
       "title": "Velocity Estimation"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tracking"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Odometry and SLAM"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation ; Paper",
-          "description": "; Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-12-15T01:15:28Z",
-            "owner": "keenan-burnett",
-            "repo": "yeti_radar_odometry",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2022-Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry Paper",
-          "description": "; Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-02-28T17:48:13Z",
-            "owner": "applied-ai-lab",
-            "repo": "f-mbym",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation ; Paper",
+              "description": "; Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276945129,
+                "language": "C++",
+                "last_commit": "2021-12-15T01:15:28Z",
+                "owner": "keenan-burnett",
+                "repo": "yeti_radar_odometry",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022-Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry Paper",
+              "description": "; Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464585797,
+                "language": null,
+                "last_commit": "2022-02-28T17:48:13Z",
+                "owner": "applied-ai-lab",
+                "repo": "f-mbym",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Odometry"
         }
       ],
-      "title": "Odometry"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Human Activity Recognition"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Radar-Audio"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Weather Effects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multi-Path Effect"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mutual Interference"
+      "title": "Odometry and SLAM"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:29:54.597Z",
+    "last_updated": "2026-08-19T11:30:02.534Z",
     "original_repository": "ZHOUYI1023/awesome-radar-perception",
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",
     "enhanced_repository": "enhansome/enhansome-radar-perception",
