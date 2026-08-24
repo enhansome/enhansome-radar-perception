@@ -1,6 +1,441 @@
 {
   "items": [
     {
+      "description": "In my review paper, there is a table with more detials.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pointillism",
+              "description": "2 TI AWR 1443 PC 3D bbox Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406503020,
+                "language": "Python",
+                "last_commit": "2022-08-26T00:26:59Z",
+                "owner": "Kshitizbansal",
+                "repo": "pointillism-multi-radar-data",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zendar SAR",
+              "description": "SAR ADC, RD, PC Pointwise Mask of Moving Vehicle Github",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 302699160,
+                "language": "CMake",
+                "last_commit": "2022-10-05T20:16:11Z",
+                "owner": "ZendarInc",
+                "repo": "ZendarSDK",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aiMotive",
+              "description": "77GHz LRR Radar x2(Front and Back) PC 3D bbox, TrackID Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541583317,
+                "language": null,
+                "last_commit": "2023-09-26T08:20:56Z",
+                "owner": "aimotive",
+                "repo": "aimotive_dataset",
+                "stars": 52
+              }
+            }
+          ],
+          "description": "Comments: nuScenes, DENSE and Pixset are for sensor fusion, but not particularly address the role of radar. Radar scenes provides point-wise annotations for radar point cloud, but has no other modalities. Pointillism uses 2 radars with overlapped view. Zendar seems no longer available for downloading. AiMotive focuses on long-range 360 degree multi-sensor fusion.",
+          "node_type": "group",
+          "title": "Conventional Radar Datasets for Autonomous Driving"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RADDet",
+              "description": "TI AWR1843 RAD 3D bbox for RAD tensor Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334219856,
+                "language": "Python",
+                "last_commit": "2024-01-08T01:02:41Z",
+                "owner": "ZhangAoCanada",
+                "repo": "RADDet",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAMP-CNN",
+              "description": "TI AWR 1843 ADC 2D bbox Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577037301,
+                "language": "Python",
+                "last_commit": "2025-05-26T21:51:39Z",
+                "owner": "Xiangyu-Gao",
+                "repo": "Raw_ADC_radar_dataset_for_automotive_object_detection",
+                "stars": 136
+              }
+            }
+          ],
+          "description": "Comments: CARRADA is captured in clean scenarios, CRUW uses RA maps, RADDet provides annotations for RAD tensor, RADICaL provides raw ADC data and signal processing toolboxes, GhentVRU can be accssed by contacting with authors, ODA is for drones and provides event camera data.",
+          "node_type": "group",
+          "title": "Pre-CFAR Datasets for Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Astyx Hires2019",
+              "description": "Astyx 6455 HiRes Middel Range PC 3D bbox Dateset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341879314,
+                "language": null,
+                "last_commit": "2021-02-24T13:09:44Z",
+                "owner": "under-the-radar",
+                "repo": "radar_dataset_astyx",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RADIal",
+              "description": "Valeo Middel Range DDM ADC,RAD,PC Point-level Vehicle; Open Space Mask Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437898375,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-09-03T16:53:03Z",
+                "owner": "valeoai",
+                "repo": "RADIal",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TJ4DRadSet",
+              "description": "Oculii Eagle Long Range PC 3D bbox, TrackID Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504449398,
+                "language": null,
+                "last_commit": "2025-10-11T16:15:54Z",
+                "owner": "TJRadarLab",
+                "repo": "TJ4DRadSet",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "K-Radar",
+              "description": "Macnica RETINA RAD 3D bbox, Track ID Github; OpenReview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584272653,
+                "language": "Python",
+                "last_commit": "2026-06-26T07:02:20Z",
+                "owner": "kaist-avelab",
+                "repo": "K-Radar",
+                "stars": 597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZF 4DRadar Dataset",
+              "description": "ZF FRGen21 4D 3D TBD Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601002376,
+                "language": null,
+                "last_commit": "2023-03-27T03:57:28Z",
+                "owner": "ZF4DRadSet",
+                "repo": "ZF-4DRadar-Dataset",
+                "stars": 58
+              }
+            }
+          ],
+          "description": "Comments: Astyx is small, VoD focuses on VRU classification, RADIal's annotation is coarse but provides raw data, TJ4D features for its long range detection, K-Radar provides RAD tensor and 3D annotations. ZF 4DRadar Dataset is not yet public available.",
+          "node_type": "group",
+          "title": "4D Radar Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ghost",
+              "description": "77GHz long range *2 Ghost object detection Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411636336,
+                "language": null,
+                "last_commit": "2024-06-19T15:24:15Z",
+                "owner": "flkraus",
+                "repo": "ghosts",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solinteraction Data",
+              "description": "Soli Tangible interactions Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153965119,
+                "language": null,
+                "last_commit": "2019-01-08T19:50:58Z",
+                "owner": "hci-yeo",
+                "repo": "solinteractiondata",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ODA",
+              "description": "24GHz Obstacle detection and avoidance for drones Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343927434,
+                "language": "C++",
+                "last_commit": "2021-04-12T11:55:24Z",
+                "owner": "tudelft",
+                "repo": "ODA_Dataset",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Radar Clutter Dataset",
+              "description": "77GHz Clutter detections Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463570886,
+                "language": "Python",
+                "last_commit": "2024-02-01T09:22:54Z",
+                "owner": "uulm-mrm",
+                "repo": "clutter-ds",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSDaR23",
+              "description": "Navtech Radar Rail-specific object detection Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590923138,
+                "language": "Python",
+                "last_commit": "2026-01-26T09:41:32Z",
+                "owner": "dbinfrago",
+                "repo": "raillabel",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specific Tasks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Oxford Radar Robocar",
+              "description": "Navtech Spinning Radar Odometry, (Detection) Website; Detection Annotation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344667699,
+                "language": "Python",
+                "last_commit": "2021-04-30T02:21:51Z",
+                "owner": "qiank10",
+                "repo": "MVDNet",
+                "stars": 121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Odometry and Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MCD-Gesture",
+              "description": "77GHz RAD tensor Gesture Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 696795549,
+                "language": null,
+                "last_commit": "2024-10-19T18:26:15Z",
+                "owner": "DI-HGR",
+                "repo": "cross_domain_gesture_dataset",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSoli",
+              "description": "60GHz RD map Gesture Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72502880,
+                "language": "Lua",
+                "last_commit": "2018-05-25T12:26:19Z",
+                "owner": "simonwsw",
+                "repo": "deep-soli",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIMOGR",
+              "description": "RADT Gesutre Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530183279,
+                "language": "Python",
+                "last_commit": "2025-04-28T11:56:57Z",
+                "owner": "Tkwer",
+                "repo": "Gesture-Recognition-Based-on-mmwave-MIMO-Radar",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gesture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ci4R human activity dataset",
+              "description": "77GHz & 24GHz & 10GHz Spectrogram Human activities Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274245177,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-09T21:40:04Z",
+                "owner": "ci4r",
+                "repo": "CI4R-MULTI3",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RadHAR",
+              "description": "77GHz Point Cloud Human activities Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202916478,
+                "language": "Python",
+                "last_commit": "2024-08-23T05:23:51Z",
+                "owner": "nesl",
+                "repo": "RadHAR",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HuPR",
+              "description": "2 TI 1843 RAD Pose Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379502194,
+                "language": "Python",
+                "last_commit": "2025-02-11T15:59:17Z",
+                "owner": "robert80203",
+                "repo": "HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar",
+                "stars": 130
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Human Activity and Reconstruction"
+        }
+      ],
+      "title": "Radar Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RadarSimPy: Code",
+              "description": "; Virtual Radar: Code; MaxRay: Paper; RadaRays: Paper, Code, Video",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282958664,
+                "language": "Python",
+                "last_commit": "2026-08-17T10:56:48Z",
+                "owner": "radarsimx",
+                "repo": "radarsimpy",
+                "stars": 572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TI Radar and Camera in Python:Code",
+              "description": "; Ainstein Radar ROS Node: ROS Node;Continental ARS 408 ROS Node: ROS Node;TI mmWave ROS Driver: Guide;RaDICaL's TI ROS Node: ROS Node;UoA's TI ROS Package: ROS Node",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177714449,
+                "language": "Python",
+                "last_commit": "2021-03-26T00:53:13Z",
+                "owner": "yizhou-wang",
+                "repo": "cr-data-collector",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Capturing:"
+        }
+      ],
+      "title": "Radar Toolbox"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -42,6 +477,48 @@
         }
       ],
       "title": "Calibration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021-Virtual Radar: Real-Time Millimeter-Wave Radar Sensor Simulation for Perception-Driven Robotics ; ; Paper",
+          "description": "; Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340707209,
+            "language": "C#",
+            "last_commit": "2021-07-23T15:47:37Z",
+            "owner": "chstetco",
+            "repo": "virtualradar",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Simulator"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024-DART: Implicit Doppler Tomography for Radar Novel View Synthesis ;Paper",
+          "description": "; Codes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568882000,
+            "language": "Python",
+            "last_commit": "2025-07-29T09:48:22Z",
+            "owner": "WiseLabCMU",
+            "repo": "dart",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Super Resolution"
     },
     {
       "description": null,
@@ -93,6 +570,48 @@
         }
       ],
       "title": "Object Detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021-Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals ; ; ; Paper",
+          "description": "; Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344667699,
+            "language": "Python",
+            "last_commit": "2021-04-30T02:21:51Z",
+            "owner": "qiank10",
+            "repo": "MVDNet",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Sensor Fusion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization ; ; ; Paper",
+          "description": "; Code; Video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309607398,
+            "language": "Python",
+            "last_commit": "2022-08-11T18:25:00Z",
+            "owner": "yizhou-wang",
+            "repo": "RODNet",
+            "stars": 288
+          }
+        }
+      ],
+      "title": "Weakly Supervised"
     },
     {
       "description": null,
@@ -238,10 +757,66 @@
         }
       ],
       "title": "Odometry and SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2020-Through Fog High Resolution Imaging Using Millimeter Wave Radar Paper",
+              "description": "; Code; Video",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298120084,
+                "language": "MATLAB",
+                "last_commit": "2020-11-29T04:11:23Z",
+                "owner": "JaydenG1019",
+                "repo": "HawkEye-Data-Code",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Methods"
+        }
+      ],
+      "title": "Weather Effects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2021-The Radar Ghost Dataset – An Evaluation of Ghost Objects in Automotive Radar Data Paper",
+              "description": "; Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411636336,
+                "language": null,
+                "last_commit": "2024-06-19T15:24:15Z",
+                "owner": "flkraus",
+                "repo": "ghosts",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dataset"
+        }
+      ],
+      "title": "Multi-Path Effect"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:33:35.608Z",
+    "last_updated": "2026-08-24T14:14:27.074Z",
     "original_repository": "ZHOUYI1023/awesome-radar-perception",
     "original_repository_id": 360790430,
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",

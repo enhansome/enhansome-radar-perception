@@ -114,7 +114,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | View-of-Delft      | ZF FRGen21 Short Range        | PC         | 3D bbox                              | [Website](https://intelligent-vehicles.org/datasets/view-of-delft/)                                                                                       |
 | RADIal             | Valeo Middel Range DDM        | ADC,RAD,PC | Point-level Vehicle; Open Space Mask | [Github](https://github.com/valeoai/RADIal) ⭐ 260 \| 🐛 36 \| 🌐 Jupyter Notebook \| 📅 2025-09-03                                                        |
 | TJ4DRadSet         | Oculii Eagle Long Range       | PC         | 3D bbox, TrackID                     | [Github](https://github.com/TJRadarLab/TJ4DRadSet) ⭐ 366 \| 🐛 3 \| 📅 2025-10-11                                                                         |
-| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 596 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
+| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 597 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
 | ZF 4DRadar Dataset | ZF FRGen21 4D                 | 3D         |                                      | TBD [Github](https://github.com/ZF4DRadSet/ZF-4DRadar-Dataset) ⭐ 58 \| 🐛 2 \| 📅 2023-03-27                                                              |
 | ThermRad           | Oculii Eagle                  | PC         | 3D                                   | TBD                                                                                                                                                       |
 | MSC-RAD4R          | Oculii Eagle                  | PC         | SLAM                                 | [Website](https://mscrad4r.github.io/home/)                                                                                                               |
@@ -451,9 +451,9 @@ Sensor Fusion:
 
 ## Simulator
 
+* 2021-Virtual Radar: Real-Time Millimeter-Wave Radar Sensor Simulation for Perception-Driven Robotics **`RAL`**; **`OpenSoucre`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9387149); [Code](https://github.com/chstetco/virtualradar) ⭐ 130 | 🐛 8 | 🌐 C# | 📅 2021-07-23
 * 2024-RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation  **`CVPR`**;
 * 2021-MaxRay: A Raytracing-based Integrated Sensing and Communication Framework **`OpenSoucre`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9743510)
-* 2021-Virtual Radar: Real-Time Millimeter-Wave Radar Sensor Simulation for Perception-Driven Robotics **`RAL`**; **`OpenSoucre`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9387149); [Code](https://github.com/chstetco/virtualradar) ⭐ 130 | 🐛 8 | 🌐 C# | 📅 2021-07-23
 * 2020-Scalable and Physical Radar Sensor Simulation for Interacting Digital Twins[Paper](https://ieeexplore.ieee.org/abstract/document/9205224)
 
 ### Artifacts
@@ -654,6 +654,8 @@ Sensor Fusion:
 
 ## Sensor Fusion
 
+* 2021-Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals **`CVPR`**; **`Attention`**; **`Oxford_Foggy`**; [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Robust_Multimodal_Vehicle_Detection_in_Foggy_Weather_Using_Complementary_Lidar_CVPR_2021_paper.html); [Code](https://github.com/qiank10/MVDNet) ⭐ 121 | 🐛 15 | 🌐 Python | 📅 2021-04-30
+
 * 2024-RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection **`CVPR`**; [Paper](https://arxiv.org/abs/2305.15883)
 
 * 2024-Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions **`CVPR`**;
@@ -702,8 +704,6 @@ Sensor Fusion:
 * 2021-Radar Camera Fusion via Representation Learning in Autonomous Driving; **`CVPRW`**; **`VisualSemantics`**; [Paper](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Dong_Radar_Camera_Fusion_via_Representation_Learning_in_Autonomous_Driving_CVPRW_2021_paper.html); [Video](https://www.youtube.com/watch?v=kBkdw4qFznU\&t=5s)
 
 * 2021-Robust Small Object Detection on the Water Surface through Fusion of Camera and MillimeterWave Radar **`ICCV`**; **`Attention`**; [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheng_Robust_Small_Object_Detection_on_the_Water_Surface_Through_Fusion_ICCV_2021_paper.html)
-
-* 2021-Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals **`CVPR`**; **`Attention`**; **`Oxford_Foggy`**; [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Robust_Multimodal_Vehicle_Detection_in_Foggy_Weather_Using_Complementary_Lidar_CVPR_2021_paper.html); [Code](https://github.com/qiank10/MVDNet) ⭐ 121 | 🐛 15 | 🌐 Python | 📅 2021-04-30
 
 * 2021-CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking **`IV`**; **`CenterFusion+Track`**; **`nuScenes`**;  [Paper](https://arxiv.org/abs/2107.05150); [Video](https://www.youtube.com/watch?v=_vuO19L6L0Q)
 
@@ -783,10 +783,10 @@ Sensor Fusion:
 
 ## Weakly Supervised
 
+* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 288 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
 * 2022-A Novel Radar Point Cloud Generation Method for Robot Environment Perception [Paper](https://ieeexplore.ieee.org/abstract/document/9823311)
 * 2022-Look, Radiate, and Learn: Self-supervised Localisation via Radio-Visual Correspondence **`Arxiv`**; **`Simulation`**; **`SpatialContrastive`**; [Paper](https://arxiv.org/abs/2206.06424)
 * 2021-R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes **`3DIMPVT`**; **`nuScenes`**; **`SSL`**; [Paper](https://arxiv.org/abs/2108.04814)
-* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 288 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
 * 2020- RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar **`IV`**; **`Oxford`**; **`PoseChain`**; [Paper](https://ieeexplore.ieee.org/document/9304674)
 * 2020-Warping of Radar Data into Camera Image for Cross-Modal Supervision in Automotive Applications **`TVT`**; **`Velocity`**; [Paper](https://arxiv.org/abs/2012.12809)
 * 2020-Weakly Supervised Deep Learning Method for Vulnerable Road User Detection in FMCW Radar  **`ITSC`**; **`Tracking`**; [Paper](https://ieeexplore.ieee.org/document/9294399)
@@ -1073,10 +1073,10 @@ Sensor Fusion:
 
 ### Methods
 
+* 2020-Through Fog High Resolution Imaging Using Millimeter Wave Radar [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Guan_Through_Fog_High-Resolution_Imaging_Using_Millimeter_Wave_Radar_CVPR_2020_paper.html); [Code](https://github.com/JaydenG1019/HawkEye-Data-Code) ⭐ 55 | 🐛 3 | 🌐 MATLAB | 📅 2020-11-29; [Video](https://www.youtube.com/watch?v=HPT4nsCkT5Q)
 * 2022-Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Modality-Agnostic_Learning_for_Radar-Lidar_Fusion_in_Vehicle_Detection_CVPR_2022_paper.html)
 * 2021-Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Robust_Multimodal_Vehicle_Detection_in_Foggy_Weather_Using_Complementary_Lidar_CVPR_2021_paper.html)
 * 2020-Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.html); [Code](); [Video](https://www.youtube.com/watch?v=HPT4nsCkT5Q)
-* 2020-Through Fog High Resolution Imaging Using Millimeter Wave Radar [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Guan_Through_Fog_High-Resolution_Imaging_Using_Millimeter_Wave_Radar_CVPR_2020_paper.html); [Code](https://github.com/JaydenG1019/HawkEye-Data-Code) ⭐ 55 | 🐛 3 | 🌐 MATLAB | 📅 2020-11-29; [Video](https://www.youtube.com/watch?v=HPT4nsCkT5Q)
 
 ***
 
