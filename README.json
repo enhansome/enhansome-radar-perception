@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "ZF 4DRadar Dataset",
-              "description": "ZF FRGen21 4D 3D TBD Github",
+              "description": "ZF FRGen21 4D 3D  TBD Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
                 "last_commit": "2024-06-17T09:06:58Z",
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3197
+                "stars": 3199
               }
             },
             {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:27.074Z",
+    "last_updated": "2026-08-25T06:01:41.890Z",
     "original_repository": "ZHOUYI1023/awesome-radar-perception",
     "original_repository_id": 360790430,
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",
