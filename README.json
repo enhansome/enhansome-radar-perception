@@ -399,7 +399,7 @@
                 "archived": false,
                 "id": 282958664,
                 "language": "Python",
-                "last_commit": "2026-08-17T10:56:48Z",
+                "last_commit": "2026-08-26T01:11:49Z",
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
                 "stars": 572
@@ -452,7 +452,7 @@
                 "last_commit": "2024-06-17T09:06:58Z",
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3199
+                "stars": 3200
               }
             },
             {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:33:06.511Z",
+    "last_updated": "2026-08-26T11:34:11.916Z",
     "original_repository": "ZHOUYI1023/awesome-radar-perception",
     "original_repository_id": 360790430,
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",
