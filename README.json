@@ -18,7 +18,8 @@
                 "owner": "Kshitizbansal",
                 "repo": "pointillism-multi-radar-data",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ZendarInc",
                 "repo": "ZendarSDK",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "aimotive",
                 "repo": "aimotive_dataset",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": "Comments: nuScenes, DENSE and Pixset are for sensor fusion, but not particularly address the role of radar. Radar scenes provides point-wise annotations for radar point cloud, but has no other modalities. Pointillism uses 2 radars with overlapped view. Zendar seems no longer available for downloading. AiMotive focuses on long-range 360 degree multi-sensor fusion.",
@@ -70,7 +73,8 @@
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Xiangyu-Gao",
                 "repo": "Raw_ADC_radar_dataset_for_automotive_object_detection",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": "Comments: CARRADA is captured in clean scenarios, CRUW uses RA maps, RADDet provides annotations for RAD tensor, RADICaL provides raw ADC data and signal processing toolboxes, GhentVRU can be accssed by contacting with authors, ODA is for drones and provides event camera data.",
@@ -107,7 +112,8 @@
                 "owner": "under-the-radar",
                 "repo": "radar_dataset_astyx",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "valeoai",
                 "repo": "RADIal",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "ZF4DRadSet",
                 "repo": "ZF-4DRadar-Dataset",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": "Comments: Astyx is small, VoD focuses on VRU classification, RADIal's annotation is coarse but provides raw data, TJ4D features for its long range detection, K-Radar provides RAD tensor and 3D annotations. ZF 4DRadar Dataset is not yet public available.",
@@ -189,7 +199,8 @@
                 "owner": "flkraus",
                 "repo": "ghosts",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "hci-yeo",
                 "repo": "solinteractiondata",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "tudelft",
                 "repo": "ODA_Dataset",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "uulm-mrm",
                 "repo": "clutter-ds",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "dbinfrago",
                 "repo": "raillabel",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -271,7 +286,8 @@
                 "owner": "qiank10",
                 "repo": "MVDNet",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -293,7 +309,8 @@
                 "owner": "DI-HGR",
                 "repo": "cross_domain_gesture_dataset",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -308,7 +325,8 @@
                 "owner": "simonwsw",
                 "repo": "deep-soli",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -323,7 +341,8 @@
                 "owner": "Tkwer",
                 "repo": "Gesture-Recognition-Based-on-mmwave-MIMO-Radar",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -345,7 +364,8 @@
                 "owner": "ci4r",
                 "repo": "CI4R-MULTI3",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -359,8 +379,9 @@
                 "last_commit": "2024-08-23T05:23:51Z",
                 "owner": "nesl",
                 "repo": "RadHAR",
-                "stars": 239
-              }
+                "stars": 240
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -374,8 +395,9 @@
                 "last_commit": "2025-02-11T15:59:17Z",
                 "owner": "robert80203",
                 "repo": "HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar",
-                "stars": 130
-              }
+                "stars": 131
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -402,8 +424,9 @@
                 "last_commit": "2026-08-26T01:11:49Z",
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 572
-              }
+                "stars": 573
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -425,7 +448,8 @@
                 "owner": "yizhou-wang",
                 "repo": "cr-data-collector",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -452,8 +476,9 @@
                 "last_commit": "2024-06-17T09:06:58Z",
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3201
-              }
+                "stars": 3205
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -467,8 +492,9 @@
                 "last_commit": "2023-07-18T10:27:56Z",
                 "owner": "tudelft-iv",
                 "repo": "multi_sensor_calibration",
-                "stars": 556
-              }
+                "stars": 555
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -494,7 +520,8 @@
             "owner": "chstetco",
             "repo": "virtualradar",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Simulator"
@@ -515,7 +542,8 @@
             "owner": "WiseLabCMU",
             "repo": "dart",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Super Resolution"
@@ -536,7 +564,8 @@
             "owner": "valeoai",
             "repo": "MVRSS",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -551,7 +580,8 @@
             "owner": "TUMFTM",
             "repo": "RadarVoxelFusionNet",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -566,7 +596,8 @@
             "owner": "itaiorr",
             "repo": "radar_road_seg",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Object Detection"
@@ -587,7 +618,8 @@
             "owner": "qiank10",
             "repo": "MVDNet",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Sensor Fusion"
@@ -608,7 +640,8 @@
             "owner": "yizhou-wang",
             "repo": "RODNet",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Weakly Supervised"
@@ -629,7 +662,8 @@
             "owner": "brade31919",
             "repo": "radar_depth",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -644,7 +678,8 @@
             "owner": "longyunf",
             "repo": "rc-pda",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -659,7 +694,8 @@
             "owner": "MI-Hussain",
             "repo": "RVMDE",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -674,7 +710,8 @@
             "owner": "lochenchou",
             "repo": "DORN",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Depth Estimation"
@@ -695,7 +732,8 @@
             "owner": "Toytiny",
             "repo": "RaFlow",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         },
         {
           "node_type": "item",
@@ -710,7 +748,8 @@
             "owner": "RansML",
             "repo": "BDF",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:20:12.396Z"
         }
       ],
       "title": "Velocity Estimation"
@@ -733,7 +772,8 @@
                 "owner": "keenan-burnett",
                 "repo": "yeti_radar_odometry",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             },
             {
               "node_type": "item",
@@ -748,7 +788,8 @@
                 "owner": "applied-ai-lab",
                 "repo": "f-mbym",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -776,7 +817,8 @@
                 "owner": "JaydenG1019",
                 "repo": "HawkEye-Data-Code",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -804,7 +846,8 @@
                 "owner": "flkraus",
                 "repo": "ghosts",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:20:12.396Z"
             }
           ],
           "description": null,
@@ -816,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:56:24.730Z",
+    "last_updated": "2026-08-28T21:20:12.396Z",
     "original_repository_info": {
       "archived": false,
       "id": 360790430,
