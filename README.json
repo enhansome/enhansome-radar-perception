@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiple Radar Dataset release for Pointillism paper. ",
+                "homepage": null,
                 "id": 406503020,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2022-08-26T00:26:59Z",
+                "open_issues": 1,
                 "owner": "Kshitizbansal",
                 "repo": "pointillism-multi-radar-data",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 302699160,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2022-10-05T20:16:11Z",
+                "open_issues": 8,
                 "owner": "ZendarInc",
                 "repo": "ZendarSDK",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -44,12 +54,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aiMotive public dataset",
+                "homepage": "https://openreview.net/forum?id=LW3bRLlY-SA",
                 "id": 541583317,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-26T08:20:56Z",
+                "open_issues": 5,
                 "owner": "aimotive",
                 "repo": "aimotive_dataset",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "dataset",
+                  "multimodal-deep-learning",
+                  "object-tracking",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -67,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Range-Azimuth-Doppler Based Radar Object Detection",
+                "homepage": null,
                 "id": 334219856,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T01:02:41Z",
+                "open_issues": 35,
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -83,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset for the raw ADC data of 2TX-4RX MMWave Radar for automotive object detection.",
+                "homepage": null,
                 "id": 577037301,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-26T21:51:39Z",
+                "open_issues": 10,
                 "owner": "Xiangyu-Gao",
                 "repo": "Raw_ADC_radar_dataset_for_automotive_object_detection",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -106,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 341879314,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-24T13:09:44Z",
+                "open_issues": 0,
                 "owner": "under-the-radar",
                 "repo": "radar_dataset_astyx",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -122,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] RADIAl: Raw High-Definition Radar for Multi-Task Learning",
+                "homepage": null,
                 "id": 437898375,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-09-03T16:53:03Z",
+                "open_issues": 36,
                 "owner": "valeoai",
                 "repo": "RADIal",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -138,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ITSC 2022] TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving",
+                "homepage": null,
                 "id": 504449398,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-10-11T16:15:54Z",
+                "open_issues": 3,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
-                "stars": 367
+                "stars": 367,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -154,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "4D Radar Object Detection for Autonomous Driving in Various Weather Conditions",
+                "homepage": null,
                 "id": 584272653,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-26T07:02:20Z",
+                "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 597
+                "stars": 597,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -170,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZF 4D Radar Dataset for Autonomous Driving",
+                "homepage": null,
                 "id": 601002376,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-27T03:57:28Z",
+                "open_issues": 2,
                 "owner": "ZF4DRadSet",
                 "repo": "ZF-4DRadar-Dataset",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -193,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accompanying repository for the Radar Ghost Dataset.",
+                "homepage": "https://zenodo.org/record/6676246",
                 "id": 411636336,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-19T15:24:15Z",
+                "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -209,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset for Exploring Tangible Interactions with Radar Sensing",
+                "homepage": null,
                 "id": 153965119,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-01-08T19:50:58Z",
+                "open_issues": 0,
                 "owner": "hci-yeo",
                 "repo": "solinteractiondata",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -225,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 343927434,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-04-12T11:55:24Z",
+                "open_issues": 0,
                 "owner": "tudelft",
                 "repo": "ODA_Dataset",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -241,12 +313,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Label Generation for a Radar Clutter Data Set",
+                "homepage": null,
                 "id": 463570886,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-01T09:22:54Z",
+                "open_issues": 0,
                 "owner": "uulm-mrm",
                 "repo": "clutter-ds",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "automatic-labelling",
+                  "clutter",
+                  "dataset",
+                  "ground-truth",
+                  "pointnet",
+                  "radar",
+                  "radar-scenes"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -257,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A devkit for working with recorded and annotated train ride data from Deutsche Bahn.",
+                "homepage": null,
                 "id": 590923138,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-26T09:41:32Z",
+                "open_issues": 1,
                 "owner": "dbinfrago",
                 "repo": "raillabel",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -280,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals, CVPR 2021.",
+                "homepage": null,
                 "id": 344667699,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-30T02:21:51Z",
+                "open_issues": 15,
                 "owner": "qiank10",
                 "repo": "MVDNet",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -303,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 696795549,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-19T18:26:15Z",
+                "open_issues": 0,
                 "owner": "DI-HGR",
                 "repo": "cross_domain_gesture_dataset",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -319,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gesture Recognition Using Neural Networks with Google's Project Soli Sensor",
+                "homepage": null,
                 "id": 72502880,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2018-05-25T12:26:19Z",
+                "open_issues": 6,
                 "owner": "simonwsw",
                 "repo": "deep-soli",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -335,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 530183279,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-28T11:56:57Z",
+                "open_issues": 2,
                 "owner": "Tkwer",
                 "repo": "Gesture-Recognition-Based-on-mmwave-MIMO-Radar",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -358,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Laboratory of Computational Intelligence for RADAR (CI4R)",
+                "homepage": "https://ci4r.ua.edu/",
                 "id": 274245177,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-07-09T21:40:04Z",
+                "open_issues": 4,
                 "owner": "ci4r",
                 "repo": "CI4R-MULTI3",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -374,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Human Activity Recognition from Point Clouds Generated through a Millimeter-wave Radar",
+                "homepage": null,
                 "id": 202916478,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-23T05:23:51Z",
+                "open_issues": 5,
                 "owner": "nesl",
                 "repo": "RadHAR",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -390,12 +510,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of HuPR: A Benchmark for Human Pose Estimation Using Millimeter Wave Radar",
+                "homepage": null,
                 "id": 379502194,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-11T15:59:17Z",
+                "open_issues": 7,
                 "owner": "robert80203",
                 "repo": "HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "millimeter-wave",
+                  "radar"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -419,12 +549,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radar Simulator built with Python and C++",
+                "homepage": "https://radarsimx.github.io/radarsimpy/",
                 "id": 282958664,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T01:11:49Z",
+                "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 573
+                "stars": 572,
+                "topics": [
+                  "cuda",
+                  "radar",
+                  "raytracing",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -442,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Camera-Radar Data Collection Tools",
+                "homepage": null,
                 "id": 177714449,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-26T00:53:13Z",
+                "open_issues": 0,
                 "owner": "yizhou-wang",
                 "repo": "cr-data-collector",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -471,12 +616,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
+                "homepage": null,
                 "id": 436532699,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-17T09:06:58Z",
+                "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3205
+                "stars": 3205,
+                "topics": [
+                  "autonomous-driving",
+                  "calibration",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -487,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 172735244,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-07-18T10:27:56Z",
+                "open_issues": 30,
                 "owner": "tudelft-iv",
                 "repo": "multi_sensor_calibration",
-                "stars": 555
+                "stars": 555,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -514,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Millimeter-Wave Radar Simulation Framework by Institute of Smart System Technologies, University of Klagenfurt and Institute of Mechatronics and Robotics, JOANNEUM RESEARCH",
+            "homepage": "https://aau.at/vira",
             "id": 340707209,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-07-23T15:47:37Z",
+            "open_issues": 8,
             "owner": "chstetco",
             "repo": "virtualradar",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -536,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] DART: Implicit Doppler Tomography for Radar Novel View Synthesis",
+            "homepage": "https://wiselabcmu.github.io/dart/",
             "id": 568882000,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-29T09:48:22Z",
+            "open_issues": 0,
             "owner": "WiseLabCMU",
             "repo": "dart",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -558,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Multi-View Radar Semantic Segmentation",
+            "homepage": null,
             "id": 358305446,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-02T14:57:32Z",
+            "open_issues": 2,
             "owner": "valeoai",
             "repo": "MVRSS",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -574,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 355275174,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2025-09-01T06:07:55Z",
+            "open_issues": 0,
             "owner": "TUMFTM",
             "repo": "RadarVoxelFusionNet",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -590,12 +769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High resolution RADAR road segmentation using weakly supervised learning",
+            "homepage": null,
             "id": 320796887,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-03T07:49:51Z",
+            "open_issues": 2,
             "owner": "itaiorr",
             "repo": "radar_road_seg",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -612,12 +796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals, CVPR 2021.",
+            "homepage": null,
             "id": 344667699,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-30T02:21:51Z",
+            "open_issues": 15,
             "owner": "qiank10",
             "repo": "MVDNet",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -634,12 +823,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RODNet: Radar object detection network",
+            "homepage": null,
             "id": 309607398,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-11T18:25:00Z",
+            "open_issues": 30,
             "owner": "yizhou-wang",
             "repo": "RODNet",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "autonomous-driving",
+              "detection",
+              "object-detection",
+              "paper",
+              "pytorch",
+              "radar",
+              "rodnet"
+            ]
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -656,12 +858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of the IROS 2020 paper \"Depth Estimation from Monocular Images and Sparse Radar Data\"",
+            "homepage": null,
             "id": 298261870,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-31T00:36:24Z",
+            "open_issues": 3,
             "owner": "brade31919",
             "repo": "radar_depth",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -672,12 +879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 345462296,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-15T23:51:04Z",
+            "open_issues": 9,
             "owner": "longyunf",
             "repo": "rc-pda",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -688,12 +900,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RVMDE : Radar Validated Monocular Depth Estimation for Robotics",
+            "homepage": null,
             "id": 404764145,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-10-05T01:04:38Z",
+            "open_issues": 2,
             "owner": "MI-Hussain",
             "repo": "RVMDE",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -704,12 +921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Ordinal Regression Network for Monocular Depth Estimation",
+            "homepage": null,
             "id": 304916793,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-19T14:22:11Z",
+            "open_issues": 1,
             "owner": "lochenchou",
             "repo": "DORN",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -726,12 +948,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L & IROS'22] Self-Supervised Scene Flow Estimation with 4-D Automotive Radar ",
+            "homepage": "https://toytiny.github.io/publication/22-raflow-ral/index.html",
             "id": 462320792,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-18T20:58:59Z",
+            "open_issues": 0,
             "owner": "Toytiny",
             "repo": "RaFlow",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "automotive-radar",
+              "autonomous-driving",
+              "deep-learning",
+              "point-cloud",
+              "pytorch",
+              "scene-flow-estimation",
+              "self-supervised"
+            ]
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         },
@@ -742,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian Dynamic Fields",
+            "homepage": null,
             "id": 346168457,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-03-28T19:02:21Z",
+            "open_issues": 0,
             "owner": "RansML",
             "repo": "BDF",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
         }
@@ -766,12 +1006,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radar odometry code which removes motion distortion and Doppler effects from Navtech radar data.",
+                "homepage": null,
                 "id": 276945129,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-12-15T01:15:28Z",
+                "open_issues": 1,
                 "owner": "keenan-burnett",
                 "repo": "yeti_radar_odometry",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "autonomous-vehicles",
+                  "radar",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             },
@@ -782,12 +1031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 464585797,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-28T17:48:13Z",
+                "open_issues": 0,
                 "owner": "applied-ai-lab",
                 "repo": "f-mbym",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -811,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 298120084,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-11-29T04:11:23Z",
+                "open_issues": 3,
                 "owner": "JaydenG1019",
                 "repo": "HawkEye-Data-Code",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -840,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accompanying repository for the Radar Ghost Dataset.",
+                "homepage": "https://zenodo.org/record/6676246",
                 "id": 411636336,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-19T15:24:15Z",
+                "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
             }
@@ -859,15 +1123,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:20:12.396Z",
+    "last_updated": "2026-08-29T04:31:22.324Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated list of radar datasets, detection, tracking and fusion",
+      "homepage": null,
       "id": 360790430,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-05T08:00:29Z",
+      "open_issues": 9,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1879
+      "stars": 1879,
+      "topics": [
+        "autonomous-driving",
+        "autonomous-vehicles",
+        "dataset",
+        "deep-learning",
+        "detection",
+        "fusion",
+        "radar",
+        "slam"
+      ]
     },
     "original_repository_sha": "a8768f832e05cd2dc6c11163ad255fcf7264eb1b",
     "enhanced_repository": "enhansome/enhansome-radar-perception",
