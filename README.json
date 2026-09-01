@@ -168,7 +168,7 @@
                 "open_issues": 37,
                 "owner": "valeoai",
                 "repo": "RADIal",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -210,7 +210,7 @@
                 "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -259,7 +259,7 @@
                 "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1108,7 +1108,7 @@
                 "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:57:20.487Z",
+    "last_updated": "2026-09-01T15:25:37.899Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
