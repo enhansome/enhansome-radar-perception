@@ -63,7 +63,7 @@
                 "open_issues": 5,
                 "owner": "aimotive",
                 "repo": "aimotive_dataset",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3208,
+                "stars": 3209,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:25:37.899Z",
+    "last_updated": "2026-09-02T15:01:19.938Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
