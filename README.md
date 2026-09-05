@@ -200,7 +200,7 @@ RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https:/
 
 ### TI Signal Processing SDK:
 
-RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 931 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 348 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
+RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 932 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 348 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
 
 ### Official SDK:
 
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
