@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:47:03.280Z",
+    "last_updated": "2026-09-06T14:02:43.220Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1880,
+      "stars": 1881,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
