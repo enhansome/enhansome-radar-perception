@@ -210,7 +210,7 @@
                 "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -554,8 +554,8 @@
                 "id": 282958664,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T01:28:40Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-08T01:56:12Z",
+                "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
                 "stars": 575,
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3213,
+                "stars": 3214,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:19:55.016Z",
+    "last_updated": "2026-09-08T15:01:15.515Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1880,
+      "stars": 1881,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
