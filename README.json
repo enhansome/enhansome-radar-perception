@@ -554,7 +554,7 @@
                 "id": 282958664,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T01:47:06Z",
+                "last_commit": "2026-09-12T02:57:15Z",
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3218,
+                "stars": 3219,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:55:47.156Z",
+    "last_updated": "2026-09-12T13:56:04.980Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
