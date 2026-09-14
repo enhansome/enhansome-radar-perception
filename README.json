@@ -498,7 +498,7 @@
                 "open_issues": 5,
                 "owner": "nesl",
                 "repo": "RadHAR",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3219,
+                "stars": 3221,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:51:41.198Z",
+    "last_updated": "2026-09-14T16:53:12.339Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
