@@ -519,7 +519,7 @@
                 "open_issues": 7,
                 "owner": "robert80203",
                 "repo": "HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar",
-                "stars": 131,
+                "stars": 130,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -554,7 +554,7 @@
                 "id": 282958664,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T13:05:09Z",
+                "last_commit": "2026-09-17T01:07:29Z",
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -650,7 +650,7 @@
                 "open_issues": 30,
                 "owner": "tudelft-iv",
                 "repo": "multi_sensor_calibration",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:22:16.799Z",
+    "last_updated": "2026-09-17T15:28:49.993Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1883,
+      "stars": 1884,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
