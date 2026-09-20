@@ -147,7 +147,7 @@
                 "open_issues": 0,
                 "owner": "under-the-radar",
                 "repo": "radar_dataset_astyx",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:14:35.664Z",
+    "last_updated": "2026-09-20T14:37:36.463Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1884,
+      "stars": 1885,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
