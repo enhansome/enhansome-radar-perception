@@ -168,7 +168,7 @@
                 "open_issues": 37,
                 "owner": "valeoai",
                 "repo": "RADIal",
-                "stars": 263,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -189,7 +189,7 @@
                 "open_issues": 4,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
-                "stars": 370,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:37:36.463Z",
+    "last_updated": "2026-09-21T16:54:30.473Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
