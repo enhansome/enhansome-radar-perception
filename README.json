@@ -259,7 +259,7 @@
                 "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 577,
+                "stars": 579,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1108,7 +1108,7 @@
                 "open_issues": 0,
                 "owner": "flkraus",
                 "repo": "ghosts",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:27:42.635Z",
+    "last_updated": "2026-09-23T15:22:21.510Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
