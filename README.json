@@ -119,7 +119,7 @@
                 "open_issues": 10,
                 "owner": "Xiangyu-Gao",
                 "repo": "Raw_ADC_radar_dataset_for_automotive_object_detection",
-                "stars": 136,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -498,7 +498,7 @@
                 "open_issues": 5,
                 "owner": "nesl",
                 "repo": "RadHAR",
-                "stars": 242,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:45:36.575Z",
+    "last_updated": "2026-09-25T15:45:56.290Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
