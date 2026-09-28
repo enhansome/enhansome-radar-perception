@@ -186,7 +186,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-10-11T16:15:54Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
                 "stars": 371,
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 579,
+                "stars": 578,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:33:47.453Z",
+    "last_updated": "2026-09-28T18:32:57.080Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1886,
+      "stars": 1888,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
