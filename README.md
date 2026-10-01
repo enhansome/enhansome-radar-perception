@@ -141,7 +141,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | Scattering Dataset          | 77GHz                    |                                             | [Website](https://www.fzd-datasets.de/rcs/)                                                      |
 | Radar Clutter Dataset       | 77GHz                    | Clutter detections                          | [Website](https://github.com/kopp-j/clutter-ds) ⭐ 21 \| 🐛 0 \| 🌐 Python \| 📅 2024-02-01       |
 | Interference Dataset        | 77GHz                    | Interference                                | [Website](https://ieee-dataport.org/documents/raw-adc-data-fmcw-radar-77-ghz-interference#files) |
-| OSDaR23                     | Navtech Radar            | Rail-specific object detection              | [Website](https://github.com/DSD-DBS/raillabel) ⭐ 38 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-26       |
+| OSDaR23                     | Navtech Radar            | Rail-specific object detection              | [Website](https://github.com/DSD-DBS/raillabel) ⭐ 39 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-26       |
 
 ### Odometry and Localization
 
@@ -200,7 +200,7 @@ RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https:/
 
 ### TI Signal Processing SDK:
 
-RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 946 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 349 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
+RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 945 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 349 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
 
 ### Official SDK:
 
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
