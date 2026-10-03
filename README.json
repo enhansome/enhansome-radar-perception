@@ -765,7 +765,7 @@
         {
           "node_type": "item",
           "title": "2021-High-resolution radar road segmentation using weakly supervised learning ; Paper",
-          "description": "Code",
+          "description": "itaiorr/radar_road_seg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:33:48.567Z",
+    "last_updated": "2026-10-03T05:03:38.018Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
