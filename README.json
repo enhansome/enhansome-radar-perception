@@ -210,7 +210,7 @@
                 "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 607,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:23:10.823Z",
+    "last_updated": "2026-10-10T16:08:51.673Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
