@@ -98,7 +98,7 @@
                 "open_issues": 35,
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -119,7 +119,7 @@
                 "open_issues": 10,
                 "owner": "Xiangyu-Gao",
                 "repo": "Raw_ADC_radar_dataset_for_automotive_object_detection",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3240,
+                "stars": 3241,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -832,7 +832,7 @@
             "open_issues": 30,
             "owner": "yizhou-wang",
             "repo": "RODNet",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "autonomous-driving",
               "detection",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:11:05.394Z",
+    "last_updated": "2026-10-13T18:03:41.686Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1891,
+      "stars": 1892,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
