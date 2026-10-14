@@ -114,7 +114,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | View-of-Delft      | ZF FRGen21 Short Range        | PC         | 3D bbox                              | [Website](https://intelligent-vehicles.org/datasets/view-of-delft/)                                                                                       |
 | RADIal             | Valeo Middel Range DDM        | ADC,RAD,PC | Point-level Vehicle; Open Space Mask | [Github](https://github.com/valeoai/RADIal) ⭐ 262 \| 🐛 37 \| 🌐 Jupyter Notebook \| 📅 2025-09-03                                                        |
 | TJ4DRadSet         | Oculii Eagle Long Range       | PC         | 3D bbox, TrackID                     | [Github](https://github.com/TJRadarLab/TJ4DRadSet) ⭐ 374 \| 🐛 5 \| 📅 2025-10-11                                                                         |
-| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 608 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
+| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 609 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
 | ZF 4DRadar Dataset | ZF FRGen21 4D                 | 3D         |                                      | TBD [Github](https://github.com/ZF4DRadSet/ZF-4DRadar-Dataset) ⭐ 58 \| 🐛 2 \| 📅 2023-03-27                                                              |
 | ThermRad           | Oculii Eagle                  | PC         | 3D                                   | TBD                                                                                                                                                       |
 | MSC-RAD4R          | Oculii Eagle                  | PC         | SLAM                                 | [Website](https://mscrad4r.github.io/home/)                                                                                                               |
@@ -193,7 +193,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 
 ### Simulation
 
-RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 582 | 🐛 0 | 🌐 Python | 📅 2026-10-12;<br>
+RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 583 | 🐛 0 | 🌐 Python | 📅 2026-10-14;<br>
 Virtual Radar: [Code](https://github.com/chstetco/virtualradar) ⭐ 130 | 🐛 8 | 🌐 C# | 📅 2021-07-23;<br>
 MaxRay: [Paper](https://arxiv.org/abs/2112.01751);<br>
 RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https://github.com/uos/radarays) ⭐ 7 | 🐛 0 | 📅 2025-02-11, [Video](https://www.youtube.com/watch?v=fLH8JPYk67o)
@@ -416,7 +416,7 @@ Sensor Fusion:
 
 ### Radar-Lidar-Camera
 
-* 2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving [Paper](https://arxiv.org/abs/2205.14087); [Code](https://github.com/PJLab-ADG/SensorsCalibration) ⭐ 3,241 | 🐛 145 | 🌐 C++ | 📅 2024-06-17
+* 2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving [Paper](https://arxiv.org/abs/2205.14087); [Code](https://github.com/PJLab-ADG/SensorsCalibration) ⭐ 3,242 | 🐛 145 | 🌐 C++ | 📅 2024-06-17
 * 2021-An Joint Extrinsic Calibration Tool for Radar, Camera and Lidar **`TIV`**; [Paper](https://ieeexplore.ieee.org/document/9380784); [Code](https://github.com/tudelft-iv/multi_sensor_calibration) ⭐ 556 | 🐛 30 | 🌐 C++ | 📅 2023-07-18
 * Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints [Paper](https://arxiv.org/abs/2207.03785)
 * 2021-Online multi-sensor calibration based on moving object tracking [Paper](https://www.tandfonline.com/doi/full/10.1080/01691864.2020.1819874)
@@ -929,7 +929,7 @@ Sensor Fusion:
 
 ### Odometry
 
-* 2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation **`RAL`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9327473); [Code](https://github.com/keenan-burnett/yeti_radar_odometry) ⭐ 153 | 🐛 1 | 🌐 C++ | 📅 2021-12-15
+* 2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation **`RAL`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9327473); [Code](https://github.com/keenan-burnett/yeti_radar_odometry) ⭐ 154 | 🐛 1 | 🌐 C++ | 📅 2021-12-15
 * 2022-Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry [Paper](https://ieeexplore.ieee.org/document/9812063) **`ICRA`**; [Code](https://github.com/applied-ai-lab/f-mbym) ⭐ 6 | 🐛 0 | 📅 2022-02-28
 * 2022-Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model [Paper](https://arxiv.org/abs/2209.05956)
 * 2021-Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning [Paper](https://arxiv.org/abs/2105.14152)
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
