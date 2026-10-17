@@ -554,7 +554,7 @@
                 "id": 282958664,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T01:15:26Z",
+                "last_commit": "2026-10-16T22:08:38Z",
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:18:41.768Z",
+    "last_updated": "2026-10-17T14:06:50.433Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 8,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1894,
+      "stars": 1895,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
