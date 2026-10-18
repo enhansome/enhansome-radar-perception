@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 583,
+                "stars": 585,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:06:50.433Z",
+    "last_updated": "2026-10-18T14:23:22.742Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
