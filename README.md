@@ -114,7 +114,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | View-of-Delft      | ZF FRGen21 Short Range        | PC         | 3D bbox                              | [Website](https://intelligent-vehicles.org/datasets/view-of-delft/)                                                                                       |
 | RADIal             | Valeo Middel Range DDM        | ADC,RAD,PC | Point-level Vehicle; Open Space Mask | [Github](https://github.com/valeoai/RADIal) ⭐ 262 \| 🐛 37 \| 🌐 Jupyter Notebook \| 📅 2025-09-03                                                        |
 | TJ4DRadSet         | Oculii Eagle Long Range       | PC         | 3D bbox, TrackID                     | [Github](https://github.com/TJRadarLab/TJ4DRadSet) ⭐ 374 \| 🐛 5 \| 📅 2025-10-11                                                                         |
-| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 610 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
+| K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 611 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
 | ZF 4DRadar Dataset | ZF FRGen21 4D                 | 3D         |                                      | TBD [Github](https://github.com/ZF4DRadSet/ZF-4DRadar-Dataset) ⭐ 58 \| 🐛 2 \| 📅 2023-03-27                                                              |
 | ThermRad           | Oculii Eagle                  | PC         | 3D                                   | TBD                                                                                                                                                       |
 | MSC-RAD4R          | Oculii Eagle                  | PC         | SLAM                                 | [Website](https://mscrad4r.github.io/home/)                                                                                                               |
@@ -200,7 +200,7 @@ RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https:/
 
 ### TI Signal Processing SDK:
 
-RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 951 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 350 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
+RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 952 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 350 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 262 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
 
 ### Official SDK:
 
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
