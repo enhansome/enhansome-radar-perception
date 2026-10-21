@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3245,
+                "stars": 3244,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -867,7 +867,7 @@
             "open_issues": 3,
             "owner": "brade31919",
             "repo": "radar_depth",
-            "stars": 89,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:35:36.023Z",
+    "last_updated": "2026-10-21T15:52:55.943Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
