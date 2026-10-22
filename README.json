@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "cuda",
                   "radar",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3244,
+                "stars": 3246,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:52:55.943Z",
+    "last_updated": "2026-10-22T15:49:26.332Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1132,7 +1132,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-04-05T08:00:29Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
       "stars": 1895,
