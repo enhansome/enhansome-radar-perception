@@ -173,7 +173,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | Dataset                              | Radar Type            | Data Type            | Task                   | Link                                                                                                                                                        |   |
 | ------------------------------------ | --------------------- | -------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | Radar signatures of human activities | 5.8 GHz               | ADC                  | Human activities       | [Dataset](http://researchdata.gla.ac.uk/848/)                                                                                                               |   |
-| Ci4R human activity dataset          | 77GHz & 24GHz & 10GHz | Spectrogram          | Human activities       | [Website](https://github.com/ci4r/CI4R-Activity-Recognition-datasets/) ⭐ 51 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2025-07-09                                 |   |
+| Ci4R human activity dataset          | 77GHz & 24GHz & 10GHz | Spectrogram          | Human activities       | [Website](https://github.com/ci4r/CI4R-Activity-Recognition-datasets/) ⭐ 52 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2025-07-09                                 |   |
 | RadHAR                               | 77GHz                 | Point Cloud          | Human activities       | [Website](https://github.com/nesl/RadHAR) ⭐ 244 \| 🐛 5 \| 🌐 Python \| 📅 2024-08-23                                                                       |   |
 | mRI                                  | 77GHz                 | PC, RGBD camera, IMU | Human pose estimation  | [Website](https://sizhean.github.io/mri)                                                                                                                    |   |
 | mmBody                               | Arbe Phoenix 4D Radar | PC, RGBD             | 3D body reconstruction | [Website](https://chen3110.github.io/mmbody/index.html)                                                                                                     |   |
@@ -193,7 +193,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 
 ### Simulation
 
-RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 586 | 🐛 0 | 🌐 Python | 📅 2026-10-16;<br>
+RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 587 | 🐛 0 | 🌐 Python | 📅 2026-10-16;<br>
 Virtual Radar: [Code](https://github.com/chstetco/virtualradar) ⭐ 130 | 🐛 8 | 🌐 C# | 📅 2021-07-23;<br>
 MaxRay: [Paper](https://arxiv.org/abs/2112.01751);<br>
 RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https://github.com/uos/radarays) ⭐ 7 | 🐛 0 | 📅 2025-02-11, [Video](https://www.youtube.com/watch?v=fLH8JPYk67o)
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

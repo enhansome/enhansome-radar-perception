@@ -477,7 +477,7 @@
                 "open_issues": 4,
                 "owner": "ci4r",
                 "repo": "CI4R-MULTI3",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "cuda",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:40:30.458Z",
+    "last_updated": "2026-10-24T14:22:34.493Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
