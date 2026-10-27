@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:12:24.048Z",
+    "last_updated": "2026-10-27T16:17:41.172Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 9,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1895,
+      "stars": 1897,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",
