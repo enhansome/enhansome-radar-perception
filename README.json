@@ -189,7 +189,7 @@
                 "open_issues": 5,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:03:20.525Z",
+    "last_updated": "2026-11-02T20:40:28.133Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
