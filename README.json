@@ -189,7 +189,7 @@
                 "open_issues": 5,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -210,7 +210,7 @@
                 "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 617,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -498,7 +498,7 @@
                 "open_issues": 5,
                 "owner": "nesl",
                 "repo": "RadHAR",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 590,
+                "stars": 591,
                 "topics": [
                   "cuda",
                   "radar",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3252,
+                "stars": 3253,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:18:20.325Z",
+    "last_updated": "2026-11-04T18:31:17.330Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
