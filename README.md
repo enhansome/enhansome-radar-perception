@@ -99,7 +99,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | -------- | ---------------------------- | --------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | CRUW     | TI AWR1843 Ultra Short Range | RA        | Pointlevel Object          | [Website](https://www.cruwdataset.org/home)                                                                                                  |
 | CARRADA  | TI AWR1843 Short Range       | RA,RD,RAD | Pointwise, 2D bbox, Mask   | [Website](https://arthurouaknine.github.io/codeanddata/carrada)                                                                              |
-| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 239 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
+| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 240 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
 | RaDICaL  | TI IWR1443                   | ADC       | 2D bbox                    | [Website](https://publish.illinois.edu/radicaldata/)                                                                                         |
 | GhentVRU | TI AWR1243 Short Range       | RAD       | Segmentation Mask for VRUs | [Paper](https://ieeexplore.ieee.org/document/9294399)                                                                                        |
 | RAMP-CNN | TI AWR 1843                  | ADC       | 2D bbox                    | [Website](https://github.com/Xiangyu-Gao/Raw_ADC_radar_dataset_for_automotive_object_detection) ⭐ 138 \| 🐛 10 \| 🌐 Python \| 📅 2025-05-26 |
@@ -193,7 +193,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 
 ### Simulation
 
-RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 592 | 🐛 0 | 🌐 Python | 📅 2026-10-30;<br>
+RadarSimPy: [Code](https://github.com/rookiepeng/radarsimpy) ⭐ 593 | 🐛 0 | 🌐 Python | 📅 2026-11-13;<br>
 Virtual Radar: [Code](https://github.com/chstetco/virtualradar) ⭐ 131 | 🐛 8 | 🌐 C# | 📅 2021-07-23;<br>
 MaxRay: [Paper](https://arxiv.org/abs/2112.01751);<br>
 RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https://github.com/uos/radarays) ⭐ 7 | 🐛 0 | 📅 2025-02-11, [Video](https://www.youtube.com/watch?v=fLH8JPYk67o)
@@ -929,7 +929,7 @@ Sensor Fusion:
 
 ### Odometry
 
-* 2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation **`RAL`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9327473); [Code](https://github.com/keenan-burnett/yeti_radar_odometry) ⭐ 154 | 🐛 1 | 🌐 C++ | 📅 2021-12-15
+* 2021-Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar Navigation **`RAL`**; [Paper](https://ieeexplore.ieee.org/abstract/document/9327473); [Code](https://github.com/keenan-burnett/yeti_radar_odometry) ⭐ 155 | 🐛 1 | 🌐 C++ | 📅 2021-12-15
 * 2022-Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry [Paper](https://ieeexplore.ieee.org/document/9812063) **`ICRA`**; [Code](https://github.com/applied-ai-lab/f-mbym) ⭐ 6 | 🐛 0 | 📅 2022-02-28
 * 2022-Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model [Paper](https://arxiv.org/abs/2209.05956)
 * 2021-Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning [Paper](https://arxiv.org/abs/2105.14152)
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
