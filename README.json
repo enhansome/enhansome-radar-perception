@@ -98,7 +98,7 @@
                 "open_issues": 35,
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
-                "stars": 240,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -189,7 +189,7 @@
                 "open_issues": 5,
                 "owner": "TJRadarLab",
                 "repo": "TJ4DRadSet",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -428,7 +428,7 @@
                 "open_issues": 6,
                 "owner": "simonwsw",
                 "repo": "deep-soli",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3258,
+                "stars": 3259,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -832,7 +832,7 @@
             "open_issues": 30,
             "owner": "yizhou-wang",
             "repo": "RODNet",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "autonomous-driving",
               "detection",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:41:29.611Z",
+    "last_updated": "2026-11-18T19:17:41.565Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 10,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1901,
+      "stars": 1902,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",

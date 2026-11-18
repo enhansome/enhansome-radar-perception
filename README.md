@@ -99,7 +99,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | -------- | ---------------------------- | --------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | CRUW     | TI AWR1843 Ultra Short Range | RA        | Pointlevel Object          | [Website](https://www.cruwdataset.org/home)                                                                                                  |
 | CARRADA  | TI AWR1843 Short Range       | RA,RD,RAD | Pointwise, 2D bbox, Mask   | [Website](https://arthurouaknine.github.io/codeanddata/carrada)                                                                              |
-| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 240 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
+| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 239 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
 | RaDICaL  | TI IWR1443                   | ADC       | 2D bbox                    | [Website](https://publish.illinois.edu/radicaldata/)                                                                                         |
 | GhentVRU | TI AWR1243 Short Range       | RAD       | Segmentation Mask for VRUs | [Paper](https://ieeexplore.ieee.org/document/9294399)                                                                                        |
 | RAMP-CNN | TI AWR 1843                  | ADC       | 2D bbox                    | [Website](https://github.com/Xiangyu-Gao/Raw_ADC_radar_dataset_for_automotive_object_detection) ⭐ 138 \| 🐛 10 \| 🌐 Python \| 📅 2025-05-26 |
@@ -113,7 +113,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | Astyx  Hires2019   | Astyx 6455 HiRes Middel Range | PC         | 3D bbox                              | [Dateset](https://github.com/under-the-radar/radar_dataset_astyx) ⭐ 51 \| 🐛 0 \| 📅 2021-02-24                                                           |
 | View-of-Delft      | ZF FRGen21 Short Range        | PC         | 3D bbox                              | [Website](https://intelligent-vehicles.org/datasets/view-of-delft/)                                                                                       |
 | RADIal             | Valeo Middel Range DDM        | ADC,RAD,PC | Point-level Vehicle; Open Space Mask | [Github](https://github.com/valeoai/RADIal) ⭐ 266 \| 🐛 37 \| 🌐 Jupyter Notebook \| 📅 2025-09-03                                                        |
-| TJ4DRadSet         | Oculii Eagle Long Range       | PC         | 3D bbox, TrackID                     | [Github](https://github.com/TJRadarLab/TJ4DRadSet) ⭐ 376 \| 🐛 5 \| 📅 2025-10-11                                                                         |
+| TJ4DRadSet         | Oculii Eagle Long Range       | PC         | 3D bbox, TrackID                     | [Github](https://github.com/TJRadarLab/TJ4DRadSet) ⭐ 375 \| 🐛 5 \| 📅 2025-10-11                                                                         |
 | K-Radar            | Macnica RETINA                | RAD        | 3D bbox, Track ID                    | [Github](https://github.com/kaist-avelab/K-Radar) ⭐ 622 \| 🐛 39 \| 🌐 Python \| 📅 2026-06-26; [OpenReview](https://openreview.net/forum?id=W_bsDmzwaZ7) |
 | ZF 4DRadar Dataset | ZF FRGen21 4D                 | 3D         |                                      | TBD [Github](https://github.com/ZF4DRadSet/ZF-4DRadar-Dataset) ⭐ 58 \| 🐛 2 \| 📅 2023-03-27                                                              |
 | ThermRad           | Oculii Eagle                  | PC         | 3D                                   | TBD                                                                                                                                                       |
@@ -164,7 +164,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | ----------- | ---------- | ----------- | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | DopNet      | 24GHz      | Spectrogram | Gesture | [Website](http://dop-net.com/)                                                                                                |
 | MCD-Gesture | 77GHz      | RAD tensor  | Gesture | [Website](https://github.com/DI-HGR/cross_domain_gesture_dataset) ⭐ 17 \| 🐛 0 \| 📅 2024-10-19                               |
-| DeepSoli    | 60GHz      | RD map      | Gesture | [Website](https://github.com/simonwsw/deep-soli) ⭐ 158 \| 🐛 6 \| 🌐 Lua \| 📅 2018-05-25                                     |
+| DeepSoli    | 60GHz      | RD map      | Gesture | [Website](https://github.com/simonwsw/deep-soli) ⭐ 159 \| 🐛 6 \| 🌐 Lua \| 📅 2018-05-25                                     |
 | Pantomime   | TI IWR1443 | PC          | Gesture | [Dataset](https://zenodo.org/record/4459969)                                                                                  |
 | MIMOGR      |            | RADT        | Gesutre | [Website](https://github.com/Tkwer/Gesture-Recognition-Based-on-mmwave-MIMO-Radar) ⭐ 45 \| 🐛 2 \| 🌐 Python \| 📅 2025-04-28 |
 
@@ -416,7 +416,7 @@ Sensor Fusion:
 
 ### Radar-Lidar-Camera
 
-* 2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving [Paper](https://arxiv.org/abs/2205.14087); [Code](https://github.com/PJLab-ADG/SensorsCalibration) ⭐ 3,258 | 🐛 145 | 🌐 C++ | 📅 2024-06-17
+* 2022-OpenCalib: A multi-sensor calibration toolbox for autonomous driving [Paper](https://arxiv.org/abs/2205.14087); [Code](https://github.com/PJLab-ADG/SensorsCalibration) ⭐ 3,259 | 🐛 145 | 🌐 C++ | 📅 2024-06-17
 * 2021-An Joint Extrinsic Calibration Tool for Radar, Camera and Lidar **`TIV`**; [Paper](https://ieeexplore.ieee.org/document/9380784); [Code](https://github.com/tudelft-iv/multi_sensor_calibration) ⭐ 556 | 🐛 32 | 🌐 C++ | 📅 2023-07-18
 * Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints [Paper](https://arxiv.org/abs/2207.03785)
 * 2021-Online multi-sensor calibration based on moving object tracking [Paper](https://www.tandfonline.com/doi/full/10.1080/01691864.2020.1819874)
@@ -783,7 +783,7 @@ Sensor Fusion:
 
 ## Weakly Supervised
 
-* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 289 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
+* 2021- RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization **`IJSTSP`**; **`CRUW`**; **`ConfMap`**; [Paper](https://ieeexplore.ieee.org/document/9353210); [Code](https://github.com/yizhou-wang/RODNet) ⭐ 290 | 🐛 30 | 🌐 Python | 📅 2022-08-11; [Video](https://www.youtube.com/watch?v=UZbxI4o2-7g)
 * 2022-A Novel Radar Point Cloud Generation Method for Robot Environment Perception [Paper](https://ieeexplore.ieee.org/abstract/document/9823311)
 * 2022-Look, Radiate, and Learn: Self-supervised Localisation via Radio-Visual Correspondence **`Arxiv`**; **`Simulation`**; **`SpatialContrastive`**; [Paper](https://arxiv.org/abs/2206.06424)
 * 2021-R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes **`3DIMPVT`**; **`nuScenes`**; **`SSL`**; [Paper](https://arxiv.org/abs/2108.04814)
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
