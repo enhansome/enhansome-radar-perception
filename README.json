@@ -98,7 +98,7 @@
                 "open_issues": 35,
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
-                "stars": 239,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -210,7 +210,7 @@
                 "open_issues": 39,
                 "owner": "kaist-avelab",
                 "repo": "K-Radar",
-                "stars": 623,
+                "stars": 624,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "radarsimx",
                 "repo": "radarsimpy",
-                "stars": 595,
+                "stars": 592,
                 "topics": [
                   "cuda",
                   "radar",
@@ -625,7 +625,7 @@
                 "open_issues": 145,
                 "owner": "PJLab-ADG",
                 "repo": "SensorsCalibration",
-                "stars": 3259,
+                "stars": 3261,
                 "topics": [
                   "autonomous-driving",
                   "calibration",
@@ -1015,7 +1015,7 @@
                 "open_issues": 1,
                 "owner": "keenan-burnett",
                 "repo": "yeti_radar_odometry",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "autonomous-vehicles",
                   "radar",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:25:46.646Z",
+    "last_updated": "2026-11-20T19:00:15.653Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
