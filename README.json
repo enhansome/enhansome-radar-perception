@@ -98,7 +98,7 @@
                 "open_issues": 35,
                 "owner": "ZhangAoCanada",
                 "repo": "RADDet",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:12.396Z"
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:29:38.798Z",
+    "last_updated": "2026-11-24T21:01:45.061Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",

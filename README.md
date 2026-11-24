@@ -99,7 +99,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | -------- | ---------------------------- | --------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | CRUW     | TI AWR1843 Ultra Short Range | RA        | Pointlevel Object          | [Website](https://www.cruwdataset.org/home)                                                                                                  |
 | CARRADA  | TI AWR1843 Short Range       | RA,RD,RAD | Pointwise, 2D bbox, Mask   | [Website](https://arthurouaknine.github.io/codeanddata/carrada)                                                                              |
-| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 238 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
+| RADDet   | TI AWR1843                   | RAD       | 3D bbox for RAD tensor     | [Github](https://github.com/ZhangAoCanada/RADDet) ⭐ 239 \| 🐛 35 \| 🌐 Python \| 📅 2024-01-08                                               |
 | RaDICaL  | TI IWR1443                   | ADC       | 2D bbox                    | [Website](https://publish.illinois.edu/radicaldata/)                                                                                         |
 | GhentVRU | TI AWR1243 Short Range       | RAD       | Segmentation Mask for VRUs | [Paper](https://ieeexplore.ieee.org/document/9294399)                                                                                        |
 | RAMP-CNN | TI AWR 1843                  | ADC       | 2D bbox                    | [Website](https://github.com/Xiangyu-Gao/Raw_ADC_radar_dataset_for_automotive_object_detection) ⭐ 138 \| 🐛 10 \| 🌐 Python \| 📅 2025-05-26 |
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
