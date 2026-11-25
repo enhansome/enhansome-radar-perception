@@ -519,7 +519,7 @@
                 "open_issues": 7,
                 "owner": "robert80203",
                 "repo": "HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T21:01:45.061Z",
+    "last_updated": "2026-11-25T20:24:43.413Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of radar datasets, detection, tracking and fusion",
@@ -1135,7 +1135,7 @@
       "open_issues": 10,
       "owner": "ZHOUYI1023",
       "repo": "awesome-radar-perception",
-      "stars": 1902,
+      "stars": 1901,
       "topics": [
         "autonomous-driving",
         "autonomous-vehicles",

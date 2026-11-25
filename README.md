@@ -177,7 +177,7 @@ In my [review paper](https://www.mdpi.com/1424-8220/22/11/4208), there is a tabl
 | RadHAR                               | 77GHz                 | Point Cloud          | Human activities       | [Website](https://github.com/nesl/RadHAR) ⭐ 245 \| 🐛 5 \| 🌐 Python \| 📅 2024-08-23                                                                       |   |
 | mRI                                  | 77GHz                 | PC, RGBD camera, IMU | Human pose estimation  | [Website](https://sizhean.github.io/mri)                                                                                                                    |   |
 | mmBody                               | Arbe Phoenix 4D Radar | PC, RGBD             | 3D body reconstruction | [Website](https://chen3110.github.io/mmbody/index.html)                                                                                                     |   |
-| HuPR                                 | 2 TI 1843             | RAD                  | Pose                   | [Github](https://github.com/robert80203/HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar) ⭐ 132 \| 🐛 7 \| 🌐 Python \| 📅 2025-02-11 |   |
+| HuPR                                 | 2 TI 1843             | RAD                  | Pose                   | [Github](https://github.com/robert80203/HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar) ⭐ 133 \| 🐛 7 \| 🌐 Python \| 📅 2025-02-11 |   |
 
 ### Vital Sign
 
@@ -200,7 +200,7 @@ RadaRays: [Paper](https://ieeexplore.ieee.org/document/10845807), [Code](https:/
 
 ### TI Signal Processing SDK:
 
-RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 64 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 962 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 350 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 267 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
+RaDICaL's Toolbox: [SDK](https://github.com/moodoki/radical_sdk) ⭐ 65 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-31; <br>PyRapid: [SDK](http://radar.alizadeh.ca);<br>OpenRadar : [SDK](https://github.com/presenseradar/openradar) ⭐ 962 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2024-04-30;<br>Pymmw: [SDK](https://github.com/m6c7l/pymmw) ⭐ 350 | 🐛 15 | 🌐 Python | 📅 2021-11-11;<br>Open radar initiative: [SDK](https://github.com/openradarinitiative);<br>RADIal's Emptyband-DDM Script: [Code](https://github.com/valeoai/RADIal/tree/main/SignalProcessing) ⭐ 267 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-09-03
 
 ### Official SDK:
 
@@ -1136,4 +1136,4 @@ Sensor Fusion:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
